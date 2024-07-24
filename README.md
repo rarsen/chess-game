@@ -14,10 +14,7 @@ A fully-featured chess game built using React.js. This application allows users 
 
 - **Interactive Chessboard**: Drag-and-drop pieces to make your move.
 - **Legal Moves Highlighting**: Highlights possible moves for a selected piece.
-- **Undo and Redo Moves**: Allows users to revert to previous game states.
-- **Game Modes**: Play against another human locally or implement an AI opponent.
-- **Responsive Design**: Seamless experience across all devices.
-- **Move History**: Keeps track of all moves played in a session.
+
 
 ## Demo
 
@@ -27,8 +24,6 @@ You can try the live demo [here](https://rarsen.github.io/chess-game/).
 
 - **Starting a Game**: Click the "New Game" button to start a new chess match.
 - **Making Moves**: Click and drag a piece to its destination square. Valid moves will be highlighted.
-- **Undo/Redo**: Use the undo and redo buttons to navigate through move history.
-- **Settings**: Adjust game settings such as board theme and player mode from the settings menu.
 
 ## Contributing
 
