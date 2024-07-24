@@ -24,6 +24,8 @@ You can try the live demo [here](https://rarsen.github.io/chess-game/).
 
 - **Starting a Game**: Click the "New Game" button to start a new chess match.
 - **Making Moves**: Click and drag a piece to its destination square. Valid moves will be highlighted.
+- **Let's see who is the winner!**: Play Chess.
+
 
 ## Contributing
 
