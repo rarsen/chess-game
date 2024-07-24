@@ -21,7 +21,7 @@ A fully-featured chess game built using React.js. This application allows users 
 
 ## Demo
 
-You can try the live demo [here](https://your-live-demo-url.com).
+You can try the live demo [here](https://rarsen.github.io/chess-game/).
 
 ## Usage
 
@@ -43,4 +43,4 @@ Please ensure your code adheres to the existing style and includes tests where a
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the LICENSE file for details.
