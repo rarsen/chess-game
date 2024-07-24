@@ -1,0 +1,61 @@
+#chessboard{
+    width: 800px;
+    height: 800px;
+    display: grid;
+    grid-template-columns: repeat(8,100px);
+    grid-template-rows: repeat(8,100px);
+    background-color: blue;
+}
+
+.modal {
+    position: absolute;
+    top:0px;
+    right: 0px;
+    bottom:0px;
+    left: 0px;
+}
+.modal.hidden{
+    display: none;
+}
+.modal .modal-body img{
+    height: 120px;
+    border-radius: 50%;
+    padding: 20px;
+}
+.modal .modal-body img:hover{
+    background-color: rgba(255, 255, 255, 0.3);
+    cursor: pointer;
+}
+.modal >.modal-body{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    transform: translate(-50%, -50%);
+    height: 300px;
+    width: 800px;
+    background-color: rgba(127, 127, 127, 0.8);
+}
+
+.modal > .modal-body > .checkmate-body{
+    display: flex;
+    flex-direction: column;
+    gap: 48px;
+
+}
+.modal > .modal-body > .checkmate-body > span{
+    font-size: 32px;
+}
+.modal > .modal-body > .checkmate-body > button{
+    background-color: #779556;
+    padding: 24px 48px;
+    font-size: 32px;
+    border-radius: 8px;
+    border: none;
+    color: white;
+}
+.modal > .modal-body > .checkmate-body > button:hover{
+    cursor: pointer;
+}
