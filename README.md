@@ -49,3 +49,47 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 =======
 # ChessGame
 >>>>>>> origin/main
+
+
+
+
+
+Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML   `git clone https://github.com//ChessGame.git     cd ChessGame`
+
+1.  Make sure you have [Node.js](https://nodejs.org/) installed, then run:bashКопировать кодnpm install
+    
+2.  bashКопировать кодnpm startThe application will open in your default web browser at http://localhost:3000.
+    
+
+Usage
+-----
+
+*   **Starting a Game**: Click the "New Game" button to start a new chess match.
+    
+*   **Making Moves**: Click and drag a piece to its destination square. Valid moves will be highlighted.
+    
+*   **Undo/Redo**: Use the undo and redo buttons to navigate through move history.
+    
+*   **Settings**: Adjust game settings such as board theme and player mode from the settings menu.
+    
+
+Contributing
+------------
+
+Contributions are welcome! To contribute to this project:
+
+1.  Fork the repository.
+    
+2.  Create a new branch for your feature or bug fix.
+    
+3.  Commit your changes and push the branch to your fork.
+    
+4.  Open a pull request with a detailed description of your changes.
+    
+
+Please ensure your code adheres to the existing style and includes tests where applicable.
+
+License
+-------
+
+This project is licensed under the MIT License. See the LICENSE file for details.
